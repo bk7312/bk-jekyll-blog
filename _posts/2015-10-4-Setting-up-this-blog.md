@@ -32,3 +32,7 @@ It works!! Only two problems though. I deleted my "old title and post name?" pos
 Oh yeah, the password saving thing. And that it takes a while for the changes to take effect, which isn't really a problem to be honest.
 
 Okay, more problems. I can't seem to make a second commit and push. First part of adding a new post, committing and pushing works. When I tried to edit, commit and push, it failed. Git says that everything is up to date but it isn't getting updated and I don't know why. Also, it's getting annoying typing my credentials every single time I push as the credential cache isn't working.
+
+### Aftermath 2
+
+I think I'm starting to get the hang of this. Let's see, after I edit them, I have to add them first before I commit, then I can push. If I didn't add them, it'll say 'Changed but not updated', then after adding, it'll say 'Changes to be committed'. Only then can I push. Same for removing posts I guess. Now the next step is figuring out the password cache thing and whether git push is done through https or not. If not, then I have to figure something out.
