@@ -24,3 +24,9 @@ If you want to get the latest files from github, pull first (via git pull) but I
 Markdown, gotta learn how to use it. As in, how to add hyperlinks, format text, add media and etc. Also gotta learn how to modify jekyll, the layout, the formats and stuff. Having a backup copy in dropbox is also something I want to do.
 
 I think that's it for now. Time to try pushing this into my repo and see what happens, if you're reading this, it works!!
+
+### Aftermath
+
+It works!! Only two problems though. I deleted my "old title and post name?" post but it's still there in my blog. How do I change that? Wait, apparently it's not a problem coz trying the commit command again, it detected the deletion of that old post. It works!! Now what was the second problem again...
+
+Oh yeah, the password saving thing. And that it takes a while for the changes to take effect, which isn't really a problem to be honest.
