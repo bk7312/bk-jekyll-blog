@@ -30,3 +30,5 @@ I think that's it for now. Time to try pushing this into my repo and see what ha
 It works!! Only two problems though. I deleted my "old title and post name?" post but it's still there in my blog. How do I change that? Wait, apparently it's not a problem coz trying the commit command again, it detected the deletion of that old post. It works!! Now what was the second problem again...
 
 Oh yeah, the password saving thing. And that it takes a while for the changes to take effect, which isn't really a problem to be honest.
+
+Okay, more problems. I can't seem to make a second commit and push. First part of adding a new post, committing and pushing works. When I tried to edit, commit and push, it failed. Git says that everything is up to date but it isn't getting updated and I don't know why. Also, it's getting annoying typing my credentials every single time I push as the credential cache isn't working.
