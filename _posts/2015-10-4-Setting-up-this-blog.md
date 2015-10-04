@@ -36,3 +36,7 @@ Okay, more problems. I can't seem to make a second commit and push. First part o
 ### Aftermath 2
 
 I think I'm starting to get the hang of this. Let's see, after I edit them, I have to add them first before I commit, then I can push. If I didn't add them, it'll say 'Changed but not updated', then after adding, it'll say 'Changes to be committed'. Only after that can I commit, then can I push. Same for removing posts I guess. Now the next step is figuring out the password cache thing and whether git push is done through https or not. If not, then I have to figure something out.
+
+### Aftermath 3
+
+Okay, this is the final update for now. Just to add some more findings, from what I've read, git push is done through https which is good. The password cache thing only works from version 1.7.10 onwards, which is bad coz mine is still 1.7.2. I'll sort that out some other time, for now I'll deal with the inconvenience. Another thing I have to do, creating a script that does all the adding, committing and pushing for me. Guess that's what rake in octopress does, time to brush up my scripting skills again. And yes, I'm doing this final aftermath thing as an exercise to get used to git. Till next time~
