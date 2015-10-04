@@ -35,4 +35,4 @@ Okay, more problems. I can't seem to make a second commit and push. First part o
 
 ### Aftermath 2
 
-I think I'm starting to get the hang of this. Let's see, after I edit them, I have to add them first before I commit, then I can push. If I didn't add them, it'll say 'Changed but not updated', then after adding, it'll say 'Changes to be committed'. Only then can I push. Same for removing posts I guess. Now the next step is figuring out the password cache thing and whether git push is done through https or not. If not, then I have to figure something out.
+I think I'm starting to get the hang of this. Let's see, after I edit them, I have to add them first before I commit, then I can push. If I didn't add them, it'll say 'Changed but not updated', then after adding, it'll say 'Changes to be committed'. Only after that can I commit, then can I push. Same for removing posts I guess. Now the next step is figuring out the password cache thing and whether git push is done through https or not. If not, then I have to figure something out.
