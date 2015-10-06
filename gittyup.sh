@@ -1,4 +1,5 @@
 #!/bin/sh
+# gittyup.sh: a script to automate github stuff...
 
 git status
 
@@ -6,8 +7,10 @@ git add *
 
 git status
 
-git commit -m %s
+read commit_msg
+
+git commit -m "$commit_msg"
 
 git status
 
-git push
+#git push
