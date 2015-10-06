@@ -11,7 +11,7 @@ git status
 
 echo '\n Enter commit message or ctrl-c to abort:\n'
 read commit_msg
-git commit -m '$commit_msg'
+git commit -m "$commit_msg"
 
 echo '\n git status after committing'
 git status
