@@ -1,0 +1,14 @@
+---
+layout: post
+title: How I want my writing habits to be.
+---
+
+So it's been more than 10 days since I touched this blog. Therefore, I'm going to post something here as I aim to write here at least once every fortnight. Interestingly, biweekly can mean both twice a week and once every two weeks. Just found out about that actually. Anyway, that's what I want my writing habit to be.
+
+There's actually a lot of friction involved when it comes to blogging for some reason. For me at least. It's probably a combination of not knowing what to write and not wanting to put effort into writing as it can get pretty time consuming sometimes and I don't have as much free time as I used to since I'm working now. Just so you know, I created this github account either late August or early September and only started making this blog early October. During that one month gap, what was I doing? Other stuff. Basically, I didn't do anything blog-wise for one whole month.
+
+To remedy that, I aim to write at least once every fortnight. Even if I don't know what to write, even if it's not a complete post, I'll still do it. At least, I'll aim to do it. So far, I've made zero progress on the things I said I'll do (learning markdown, jekyll customization and etc) and I shall do it soon-ish. That doesn't sound very convincing now does it? Why not now? It's already past 9pm and I have to wake up at 5.30am tomorrow, everyday minus one day actually. After work? I'm usually back around 8pm and feeling spent most of the time. The good news is that I'll only be on this schedule until early November, then it's back to the normal hours until further notice, probably around mid next year.
+
+Here's a tip for people looking for jobs that aren't office related. Do make sure whether you're expected to do shift work or not. I'm currently on a 12hr day shift but it's actually more than that because of handover meetings. We can't just leave, we have to properly hand things over to night shift (and vice versa in the morning) and these meetings can get a bit long sometimes. Plus I also have to drive home which takes some time as well. Why do people subject themselves to this? Coz of the job, someone has to do it right? For some people, it's the pay but hopefully you're doing this because you care or you want to or because it's important.
+
+I know, that was kinda random but when you have nothing to write, you write what you can instead of procrastinating. It's better to write random low quality post once every two weeks in hopes of something good instead of waiting for that one or two high quality post that might never come if you keep procrastinating. Someday, I'm gonna have to delete these old posts and keep only the better ones.
