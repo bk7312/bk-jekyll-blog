@@ -27,8 +27,20 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
+
+<!-- From http://joshualande.com/jekyll-github-pages-poole/
+For setting up links automatically in html file -->
+	    {% for page in site.pages_list %}
+	      &nbsp;&nbsp;&nbsp;
+	      <a href="{{ page[1]  }}">{{ page[0] }}</a>
+	    {% endfor %}
+
+<!-- Previous header links -->
+
+<!--        <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
+-->
+
           </nav>
         </header>
       </div>

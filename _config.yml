@@ -32,6 +32,13 @@ footer-links:
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
+# From http://joshualande.com/jekyll-github-pages-poole/
+# For setting up links automatically in html file
+pages_list:
+  Blog: '/'
+  About: '/about'
+  Archive: '/archive'
+
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus:
