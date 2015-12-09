@@ -1,0 +1,20 @@
+---
+layout: post
+title: Starting Spanish was it?
+---
+
+Did I just say Spanish? Yes, starting Spanish to be precise. But what does that mean? Basically I'm gonna start learning Spanish. Why you ask? WELL, I'm pretty much doing this on a whim. That's it really, in a nutshell. I can create and list plenty of reasons to satisfy your curiosity, if that's what you prefer, but there's no point in doing that. I'm not gonna justify why so you can stop reading here if that's what you're after.
+
+Anyway, this will be an interesting experiment and I'm curious to see what'll happen next. Do I A, give up in frustration after trying for a few days/weeks/months or will I B, actually follow through and achieve some level of fluency? Perhaps I'll C, keep trying and not go anywhere or even D, try for a while and switch into something else, after my interest dies, into another experiment that I find more appealing.
+
+Maybe I'll E, side track and procrastinate by doing all the other activities I'm supposed to do but never got around to. You know, now that I'm all fired up to learn yet another language, I might justify tidying my room for example, before I actually start. Then after that, I might start an exercising streak, maybe go partial vegetarian or start eat healthy. As you know, a healthy body promotes a healthy mind. Or was it the other way around? Perhaps this is all just an elaborate scheme to get me to finally tidy up my room and start paying attention to my health and lifestyle. Yeah, that feels like it.
+
+I'm sorry you had to read that last paragraph, please pretend you never read that and pretend I never mentioned anything about option E. Jokes aside, I'm at least semi serious about this. Okay, quite serious about learning Spanish. Just that there's no guarentee I can keep it up and actually achieve something substantial. It's fully possible I'll give up after trying for a while but it's also fully possible I'll get something priceless out of this experiment. You'll never know and that's what I'm betting on.
+
+So the first order of business is, how should I go about doing this? I've actually thought things through and planned ahead a bit. For starters, I'm gonna break my experiment into several phases and to me, everything begins with listening and pronunciation. Getting used to how the language sounds like is the first step I want to prioritize. I mean, that's pretty much how I learned Cantonese but never mind that, that's a topic for another time if I ever feel like it.
+
+For phase one of my plan, I'm gonna start consuming Spanish media and do it for a month or so. That doesn't mean I won't be doing anything else though. I'll try and mimic what I hear and also take bits and pieces of what I've mindlessly consumed and translate them using a dictionary. While that might not sound like a good idea to some people, that's the way I want to go about learning, for phase one anyway. Taking raw Spanish, imitating it and trying to make sense of it using only a dictionary and whatever guide I can find online.
+
+Phase two would involve piecing together whatever I've learned into something more coherent. Perhaps properly go through some grammar guide instead of looking up whatever I'm interested in knowing and being more thorough in what I'm doing. For example, learning the proper tenses, the proper spellings, the proper structure, how to pronounce the alphabets and etc, the less exciting stuff. I don't know about phase three and beyond yet. 
+
+I'm hoping with such a hands-on phase one, I'll be able to truly get something valuable out of this experiment instead of going through the traditional vocabulary and grammar centered approach. Then again, I might not follow through with this and give up after a short while because of such a hands-on approach. In any case, it doesn't stop me from trying so wish me good prospects. I'll write again sometime soon if there's anything new or within two months time, whichever comes first.
