@@ -7,6 +7,7 @@
 
 @import "reset";
 @import "variables";
+@import "pagination";
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -271,16 +272,6 @@ nav {
   }
 }
 
-// add pagination
-// copied from http://joshualande.com/jekyll-github-pages-poole/
-
-.pagination {
-  overflow: hidden; // clearfix
-  margin: 0 -1.5rem 1rem;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  color: #ccc;
-  text-align: center;
-}
 
 .wrapper-footer {
   margin-top: 50px;
