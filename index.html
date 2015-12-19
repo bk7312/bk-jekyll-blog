@@ -9,20 +9,7 @@ For setting up page separations by adding paginate in _config.yml and the follow
   {% for post in paginator.posts %}
   <article class="post">
   
-  <!-- original copied format without excerpt
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-
-    {{ post.content }}
-
-  -->
   
-    <!-- own post format with excerpt-->
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
@@ -30,7 +17,7 @@ For setting up page separations by adding paginate in _config.yml and the follow
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-	  <!-- end of own post format -->
+
 	  
     </article>
   {% endfor %}
@@ -51,25 +38,3 @@ For setting up page separations by adding paginate in _config.yml and the follow
   {% endif %}
 </div>
 
-
-
-<!-- Original index code -->
-
-<!--
-
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
-
--->
