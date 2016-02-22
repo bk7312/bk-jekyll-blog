@@ -1,0 +1,14 @@
+---
+layout: post
+title: Excitement and being excited.
+---
+
+Do you want to be excited? Do you like excitement? Or do you prefer to be in a more calm and peaceful state? Recently I learned that excitement isn't exactly what I think it is. There is also a lot of similarity between excitement and a certain feeling that has a lot of negative associations. We know that being calm and being excited are total opposite states. One reduces our heart rate and induces a state of peace and relaxedness while the other increases heart rate and induces a more chaotic state that's buzzing with energy and can even make us tremble.
+
+Excitement has a lot of similarities with fear, anxiety and nervousness. Something I'm not a big fan of. Think about it, what happens when we feel anxious? Try and recall a recent event that made you felt really anxious. Picture it and stay with it for a while. How did it felt like? Now try and recall a different event where you felt really excited about something. Again, picture and stay with it for a while. Notice the difference? Our bodily response in those two events are largely the same. Increased heart rate, involuntary shaking, a sudden drop in mind clarity with the feeling of an adrenaline rush and an itching desire to do something. In the case of being excited, we're itching to go do that thing we're excited about but in anxious case, we're itching to run and hide from that thing we don't feel comfortable with.
+
+The only real difference is that in the feeling of excitement, there is a lot of positive thoughts associated with it while for fear and anxiety, there's a lot more negative thoughts going on in our mind. Really, there's not much difference other than that and if we think about it, it's really hard to tell the difference.
+
+Take skydiving for example and picture two people trying it out for the first time. They're both on the plane and getting ready to jump. One is really excited and can't wait to jump. He has all that energy and adrenaline to just do it and jump. On the other hand, the other guy is really nervous and scared to do just that. He's been trying to calm himself to no avail, he couldn't rid himself of that nervous sensation and can't help but feel like running away and not jumping.
+
+If we look closely, this sense of excitement and the sensation of fear and anxiety are very closely related. Deep down, they are both part of the classic fight or flight response. The only real difference is in the way we frame it in our mind. Just try it, next time you feel nervous or anxious about something, turn it into excitement. Instead of trying to calm yourself down before an interview or audition, do the opposite. Go all out, change your perspective and think of how awesome it is you that you get to chance to that something you're nervous about. Frame it differently and see what happens.
