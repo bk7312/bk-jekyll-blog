@@ -64,7 +64,7 @@ paginate: 5		# posts perpage on blog index
 #
 
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
