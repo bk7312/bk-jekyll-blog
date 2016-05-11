@@ -63,7 +63,9 @@ paginate: 5		# posts perpage on blog index
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: redcarpet
+# markdown: redcarpet
+# github no longer supports redcarpet, will use kramdown instead after jekyll 3.0 update
+# suggested to comment markdown setting to suppress warning from github email
 highlighter: rouge
 permalink: /:title/
 
