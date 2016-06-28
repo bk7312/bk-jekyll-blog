@@ -6,11 +6,6 @@
     {% if page.excerpt %}
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
     <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
-	
-	<div class="date">
-		Written on {{ page.date | date: "%B %e, %Y" }}
-	</div>
-	
     {% else %}
     <meta name="description" content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}" />
