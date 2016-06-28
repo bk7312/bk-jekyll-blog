@@ -16,12 +16,12 @@ For setting up page separations by adding paginate in _config.yml and the follow
         {{ post.excerpt }}
       </div>
 	  
-	  
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>	  
+	  &nbsp;
 	  <div class="date">
 		Written on {{ post.date | date: "%B %e, %Y" }}
 	  </div>
   
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>	  
 
 	  
     </article>
