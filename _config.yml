@@ -32,7 +32,7 @@ footer-links:
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
-# From http://joshualande.com/jekyll-github-pages-poole/
+# From http://joshualande.com/jekyll-github-pages-poole
 # For setting up links automatically in html file
 pages_list:
   Blog: '/'

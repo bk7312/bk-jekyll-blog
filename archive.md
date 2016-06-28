@@ -9,4 +9,4 @@ title: Archive
   * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
 {% endfor %} 
 
-Archive function copied from this lovely [tutorial](http://joshualande.com/jekyll-github-pages-poole/)
+Archive function copied from this lovely [tutorial](http://joshualande.com/jekyll-github-pages-poole)
