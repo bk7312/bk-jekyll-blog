@@ -1,0 +1,22 @@
+---
+layout: post
+title: Do you permission to disappoint?
+---
+
+As strange as it sounds, I feel like I have to ask for permission to disappoint. It's not that I'm actively trying to disappoint people, it's that I feel a lot of unnecessary pressure if I don't have the permission to disappoint. The pressure of being expected to do everything right first time, especially when I'm just starting out, isn't really helping me with anything. Why can't I try and see, then iterate when I fail and incrementally improve my work until I get it right?
+
+This "trial and error" approach, why is it being frowned upon so much? For someone with limited experience, is it not a good idea to fail often and learn from those mistakes as opposed to getting everything right the first time around and not knowing why your "other ideas" aren't exactly ideal? I believe in mistakes and failures, in second chances and in improving oneself gradually over time. As awesome as getting things right first time is, I don't really believe it's the way to go for someone who's just starting things out.
+
+Of course, we all know the merits of getting things right first time. It saves cost, signifies that you're very thorough and detailed in what you do, shows you know what you're doing and so on. But can't you only do that after having lots of experience under your belt? I don't see how the average new guy in the office, A.K.A me, can do all that without creating massive delays from not knowing what to do, missing out a few often overlooked but important details and just being clueless in general on how things are supposed to be. Sure that makes me sound like the new idiot in town but really, this had me disappointing quite a number of people already. The stupidity of my questions, my ignorance on how things work and the fact that I'm placed in charge of it. They must really have a lot of confidence in me, and I just can't help but disappoint them.
+
+To be fair, they probably know what to expect from me already and can see that I'm continuously learning from all this. The question here is, is the pressure I feel from having to deliver things right first time imaginary? I would say yes. Everyone makes mistakes so why would anyone assume I won't make any? How can I get rid of this limiting belief that says I can't mess up? Get permission to disappoint? 
+
+Perhaps I shouldn't be asking for permission to fail or disappoint people, who would grant that permission anyway? Instead, I should be asking: Am I able to take responsibility for my mistakes and fix it? Asking for permission to disappoint is basically running away from responsibility, is it not? No, it's more like asking if it's okay to screw up. I'll still be responsible for it but having the acknowledgment and support that, yes I'm not perfect and I may screw up but I'll try my best to deliver, is just so comforting. The scared little kid inside of me is just afraid of messing things up. This is vastly different from what I used to do at home. 
+
+At home, I could tinker with things, play with them, open them and see how they work. Sometimes, I'd accidentally break them and that's okay. That's how I learn. But here, I'm not allowed to do that. If I break anything, the consequences are severe. We're talking dollar signs with lots of zeros here, numbers that take a while to count. If you count out loud from one to a hundred really really fast, it might take you close to a minute maybe. The numbers I'm talking about would take you days to count. So my usual approach won't work here and the little kid inside me is scared because of this. 
+
+What can I do to fix this? Tell myself it's okay to screw up despite the potential consequences? To adapt to this "right first time" approach and live with the pressure? I don't know, there has to be another way. Quit and find another job? That's kinda out of the question. Will getting a "yes, it's okay to screw up" validation really fix this? As petty as this issue might sound to some people, perhaps I really am that insecure. 
+
+More and more, I find that most of my problems are made up inside my mind. Assumptions, limiting beliefs and a lack of confidence perhaps. What's the worst that could happen anyway? Realistically, it's never as bad as I imagined, not even close.
+
+P.S - Check out the new and updated "about" page, I've also added post dates on the main blog now.
