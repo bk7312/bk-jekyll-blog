@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Do you permission to disappoint?
+title: Do you need permission to disappoint?
 ---
 
 As strange as it sounds, I feel like I have to ask for permission to disappoint. It's not that I'm actively trying to disappoint people, it's that I feel a lot of unnecessary pressure if I don't have the permission to disappoint. The pressure of being expected to do everything right first time, especially when I'm just starting out, isn't really helping me with anything. Why can't I try and see, then iterate when I fail and incrementally improve my work until I get it right?
