@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The nameless story: Prologue.
+title: The nameless story - Prologue.
 ---
 
 Have you ever thought that someday, maybe just someday, you'll get to write a book and have it published for the world to read? Perhaps you don't, but that's okay, for I do and the idea has been swimming around my head for a while now. So without further ado, that "someday" begins today, right here, right now. Watch as my creativity flows and out comes my first ever masterpiece, or the prologue of said masterpiece anyway. Note, this is purely a work of fiction.
