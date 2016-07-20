@@ -3,7 +3,7 @@ layout: post
 title: A sales pitch from a close friend.
 ---
 
-Recently, a close friend of mine gave me a sales pitch. He was trying to convince me to try a product he was distributing, and maybe, just maybe, I could start helping him distribute as well. Gut reaction, not so good. However, I find my mind disagreeing with my gut. Not that I'm buying what he's trying to get me to do but my mind is having a different thought altogether. Fair warning, this is post has about 2000 words.
+Recently, a close friend of mine gave me a sales pitch. He was trying to convince me to try a product he was distributing, and maybe, just maybe, I could start helping him distribute as well. Gut reaction, not so good. However, I find my mind disagreeing with my gut. Not that I'm buying what he's trying to get me to do but my mind is having a different thought altogether.
 
 If there's one useful skill I learned in school, it's critical thinking and boy did I use it a lot that day. My mind subconsciously started deconstructing his sales pitch the moment my gut told me to stay far far away from it. The situation also turned somewhat delicate, my friend is trying to sell me something, how do I politely say no? After all, money-related matters can easily destroy a relationship if not handled properly.
 
