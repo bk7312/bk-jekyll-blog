@@ -1,0 +1,31 @@
+---
+layout: post
+title: Restricting how much you eat
+---
+
+Recently I started experimenting with calorie restriction. Not because I wanted to lose weight or anything, in fact, my goal goes in the exact opposite direction. But because I have a friend who's doing it for the exact reason I'm not, to lose weight, or more precisely, to lose fat and gain muscle. Why does that make me want to do it you ask? A number of reasons, one is because I've been fascinated with the concept of intermittent fasting and calorie restriction for quite some time now but not once did I properly tried it. But the main reason is something else.
+
+It's because I can't help but feel amazed at what my friend did. Restricting calorie intake to 1400 to 1600 per day while spending hours running on the treadmill or doing intensive workouts, sometimes burning over a thousand calories per session, without eating back those additional calories burnt. I actually don't know if it's even possible to do that and not collapse. Low basal metabolic rate? A well trained athletic body that's energy efficient (and thus environmentally friendly)? Ability to withdraw energy from external sources (like Qi, mana, photosynthesis, chakra, external battery packs, and etc)? I don't know, but I would really like to find out! It also gives me a chance to gain a better understanding on just how much calories I normally eat and how much do I really need per day.
+
+Thus I began the experiment, I downloaded the exact same app my friend used to track calorie intake. My target? I put it as 1800 plus however much I exercised that day. For reference, a person with my build living a sedentary lifestyle would require about 2000 according to the app, 2200 for a lightly active lifestyle. Additional calories I can take will be calculated when I track my workouts and added to the app.
+
+With that out of the way, I've already spent about 2 weeks tracking how much I ate while trying to keep it within the target amount. So what did I learn from all this? What awesome conclusions have I come up with? 
+
+It is only when I started the experiment that I realized, I actually eat a lot sometimes! The amount of rice I had for lunch, that alone amounts to more than 600 calories. What I thought to be a fairly normal meal consisting of rice, veggies and other side dishes was occasionally over 1000 calories. That's news to me, in comparison, the sandwich I sometimes have for lunch is only about 400. That might explain why I don't feel satisfied with it. Surprisingly, bread has a higher protein to carbs ratio than rice. 
+
+But if you think about it logically, it's actually normal to eat lots of calories. Suppose someone eats 400 for breakfast, then 800 for lunch and another 800 for dinner. That adds up to exactly 2000, which is what you see on the nutrition information on the back of various food products. There's always this "percentage daily values are based on a 2000 calorie diet". So it isn't weird to eat lots, it's just surprising how much we eat per meal sometimes. 
+
+Eating big portions is fine and all, but the problem arises when we snack. Ah snacking, a biscuit here, a chocolate bar there and before you know it, that's another 500 calories consumed. It goes to show just how much extra we can eat if we don't pay attention. Fortunately, I don't snack much so it's actually very easy to for me to keep track of how much I eat and not exceed the limit. 
+
+When I first started, eating 1800 feels alright but after a few days, I started feeling really hungry for some reason. Perhaps 1800 is too low for me? As I began thinking that, I started to notice my hunger more. It wasn't as bad as I thought, sometimes it would just go away after a while. But on some occasions, especially on a day where I did a heavy workout, my stomach is growling for food in the middle of the night and I can't sleep. 
+
+I also feel skinnier for some reason, though this could be completely imaginary and I don't have a scale to check my weight, it seems like my cheekbones are more prominent now. Or perhaps it has always been and I never really took note of it until now. Either way, I doubt two weeks of calorie restriction can change much. 
+
+Now like me, my friend is also 25 years old so our recommended calorie intake should be roughly the same. Mine slightly higher cos I'm taller. Still, it doesn't make sense. How did my friend do it? Sustaining 1400 to 1600 while working out like crazy, and complaining about always being hungry but still endured it. How?! Hard core mental strength, will power and discipline? Ability to photosynthesis? Or could it really be genetic and related to having an extremely low metabolic rate? I don't know. At least it's not below the absolute minimum of 1200 which sends the body into starvation mode.
+
+One nice side effect of this experiment is that I'm a lot more informed about calorie intake and nutrition than I was before. But the thing is, the more I read about nutrition, the less I know for certain to be true. Rather, there are just too many conflicting sources and different experts claim different things to be true. The world of food and nutrition is a very complex topic indeed, more so than you can ever imagine. 
+
+Now for the conclusion, or rather, the punchline. As I look back to my relationship with food, I remember a time when I was in university. A time where I truly ate when I felt like it. There was actually a time where I had lunch twice, the second lunch was spontaneous to the extent that half an hour after finishing my lunch, a friend said "Hey, we're meeting so and so for lunch in 5 minutes. Wanna join?" Now that I think about it, both lunches are easily about 800 calories each. There were also times where I had two meals a day. Sadly I never tried one meal a day, perhaps next time. Too bad my life now is ruled by strict lunch times and eating norms. How I yearn for my old university lifestyle. 
+
+---
+This was written in a hurry to fulfill my schedule for posting every Wednesday. Better to have a rushed post than no post, though I'm not happy with the quality. Also, I've already struck a deal with myself that I'll lose a hundred dollars for every missed Wednesday post.
