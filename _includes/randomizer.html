@@ -1,0 +1,5 @@
+ {% assign hours= site.time | date: "%H" | plus:100 %}
+ {% assign random = page.title.size | plus: hours | modulo: site.data.quotes.size %}
+  <div class="entry">
+        {{ site.data.quotes[random].text }}
+  </div>
