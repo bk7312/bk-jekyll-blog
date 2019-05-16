@@ -5,6 +5,11 @@ layout: default
 <!-- From http://joshualande.com/jekyll-github-pages-poole
 For setting up page separations by adding paginate in _config.yml and the following code -->
 
+  <div class="quotes">
+	<br>
+		{% include randomizer.html %}
+  </div>
+
 <div class="posts">
   {% for post in paginator.posts %}
   <article class="post">
@@ -37,7 +42,7 @@ For setting up page separations by adding paginate in _config.yml and the follow
   
 </div>
 
-{% include randomizer.html %}
+
 
 <div class="pagination">
   {% if paginator.next_page %}
