@@ -3,3 +3,7 @@
   <div class="entry">
         {{ site.data.quotes[random].text }}
   </div>
+  
+{% assign random2 = site.time | date: "%s%N" | modulo: site.data.quotes.size %}
+
+<blockquote>&ldquo;{{ site.data.quotes[random2].text }}&rdquo; <cite>{{ site.data.quotes[random2].text}}</cite></blockquote>
