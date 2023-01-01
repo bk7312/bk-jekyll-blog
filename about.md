@@ -27,5 +27,3 @@ If you do know what you're doing or what you want to do, then follow me anyway f
 ### Contact me
 
 Please feel free to contact me using the following email. That's bk_7312, followed by a weird letter that's kinda like a "half-a-half-o-hybrid", followed by hotmail, then a dot, and a com. Sigh, the lengths I go to just to make my email a bit more obscured...
-
-In case you don't get what I'm talking about, take this website "bk7312.github.io", change "github.io" to "hotmail.com", add an underscore "_" in between the letters and the numbers (see above paragraph for hint) and put that "@" symbol where you think it should go, and I'm really counting on you to know this one! Cause that'll prove that you are, in all likelihood, a human. If you happen to be a demigod or that dog on the internet or anyone else, you have my apologies. I just hope I don't get my statistics for "the population of humans v dogs v demigods v other beings on the internet" horribly wrong.
