@@ -81,6 +81,10 @@ gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-paginate
 
+# Deprecation: You appear to have pagination turned on, but you haven't included the `jekyll-paginate` gem. 
+# Ensure you have `plugins: [jekyll-paginate]` in your configuration file.
+plugins: [jekyll-paginate]
+
 # Exclude these files from your production _site
 exclude:
     - Gemfile
